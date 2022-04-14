@@ -2,7 +2,7 @@
   "name": "react_binary_to_decimal_convertor",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel index.html ./src/playground/*/index.html"
